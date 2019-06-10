@@ -1,10 +1,9 @@
 # UnsupervisedQA
 
 Code, Data and models supporting the experiments in the ACL 2019 Paper: [Unsupervised Question Answering by Cloze Translation](https://dl.fbaipublicfiles.com/UnsupervisedQA/unsupervised_question_answering_by_cloze_translation.pdf).  
-
 <br>
 <br>
-![main_fig](https://dl.fbaipublicfiles.com/UnsupervisedQA/main_diagram.jpg)
+![Figure](https://dl.fbaipublicfiles.com/UnsupervisedQA/main_diagram.jpg)
 <br>
 <br>
 This repository provides code to run pre-trained models to generate sythetic question answering question data. We also make a very large synthetic training dataset for extractive question answering available.
