@@ -4,7 +4,7 @@ Code, Data and models supporting the experiments in the ACL 2019 Paper: [Unsuper
 
 <br>
 <br>
-![main_fig](https://dl.fbaipublicfiles.com/UnsupervisedQA/main_diagram.pdf)
+![main_fig](https://dl.fbaipublicfiles.com/UnsupervisedQA/main_diagram.jpg)
 <br>
 <br>
 This repository provides code to run pre-trained models to generate sythetic question answering question data. We also make a very large synthetic training dataset for extractive question answering available.
