@@ -12,7 +12,7 @@ Obtaining training data for Question Answering (QA) is time-consuming and resour
 
 This repository provides code to run pre-trained models to generate sythetic question answering question data. We also make a very large synthetic training dataset for extractive question answering available.
 
-**_NOTE:_**  The data is available for download now, the code is coming soon!
+**_NOTE:_**  The data is available for download now, the code and pre-trained models are coming soon.
 
 ## Dataset Downloads
 
