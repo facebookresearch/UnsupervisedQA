@@ -1,12 +1,18 @@
 # UnsupervisedQA
 
-Code, Data and models supporting the experiments in the ACL 2019 Paper: [Unsupervised Question Answering by Cloze Translation](https://dl.fbaipublicfiles.com/UnsupervisedQA/unsupervised_question_answering_by_cloze_translation.pdf).  
+Code, Data and models supporting the experiments in the ACL 2019 Paper: [Unsupervised Question Answering by Cloze Translation](https://dl.fbaipublicfiles.com/UnsupervisedQA/unsupervised_question_answering_by_cloze_translation.pdf). 
+
+Obtaining training data for Question Answering (QA) is time-consuming and resource-intensive, and existing QA datasets are only available for limited domains and languages. In this work, we take some of the first steps towards unsupervised QA, and develop an approach that, *without using the SQuAD training data at all*, achieves 56.4 F1 on SQuAD v1.1, and 64.5 F1 when the answer is a named entity mention.
+
 <br>
+<p align="center">
+  <img src="https://dl.fbaipublicfiles.com/UnsupervisedQA/main_diagram.jpg" alt="figure"  width="80%"/>
+</p>
 <br>
-![Figure](https://dl.fbaipublicfiles.com/UnsupervisedQA/main_diagram.jpg)
-<br>
-<br>
+
 This repository provides code to run pre-trained models to generate sythetic question answering question data. We also make a very large synthetic training dataset for extractive question answering available.
+
+**_NOTE:_**  The data is available for download now, the code is coming soon!
 
 ## Dataset Downloads
 
