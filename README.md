@@ -1,6 +1,6 @@
 # UnsupervisedQA
 
-Code, Data and models supporting the experiments in the ACL 2019 Paper: [Unsupervised Question Answering by Cloze Translation](https://dl.fbaipublicfiles.com/UnsupervisedQA/unsupervised_question_answering_by_cloze_translation.pdf). 
+Code, Data and models supporting the experiments in the ACL 2019 Paper: [Unsupervised Question Answering by Cloze Translation](https://arxiv.org/abs/1906.04980). 
 
 Obtaining training data for Question Answering (QA) is time-consuming and resource-intensive, and existing QA datasets are only available for limited domains and languages. In this work, we take some of the first steps towards unsupervised QA, and develop an approach that, *without using the SQuAD training data at all*, achieves 56.4 F1 on SQuAD v1.1, and 64.5 F1 when the answer is a named entity mention.
 
@@ -37,11 +37,11 @@ Pre-trained models and the code to run them are coming soon.
 
 ## References
 
-Please cite [[1]](https://dl.fbaipublicfiles.com/UnsupervisedQA/unsupervised_question_answering_by_cloze_translation.pdf) and [[2]](https://arxiv.org/abs/1804.07755) if you found the resources in this repository useful.
+Please cite [[1]](https://arxiv.org/abs/1906.04980) and [[2]](https://arxiv.org/abs/1804.07755) if you found the resources in this repository useful.
 
 ### Unsupervised Question Answering by Cloze Translation
 
-[1] P. Lewis, L. Denoyer, S. Riedel [*Unsupervised Question Answering by Cloze Translation*](https://dl.fbaipublicfiles.com/UnsupervisedQA/unsupervised_question_answering_by_cloze_translation.pdf)
+[1] P. Lewis, L. Denoyer, S. Riedel [*Unsupervised Question Answering by Cloze Translation*](https://arxiv.org/abs/1906.04980)
 
 
 ```
