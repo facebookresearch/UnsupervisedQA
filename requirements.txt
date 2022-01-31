@@ -1,4 +1,4 @@
-nltk==3.4.5
+nltk==3.6.4
 numpy==1.15.4
 torch==0.4.1.post2
 spacy==2.0.16
