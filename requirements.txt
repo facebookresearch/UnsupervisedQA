@@ -1,5 +1,5 @@
 nltk==3.4.5
-numpy==1.15.4
+numpy==1.22.0
 torch==0.4.1.post2
 spacy==2.0.16
 attrs==18.1
